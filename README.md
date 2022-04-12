@@ -1,3 +1,12 @@
+run:
+C:\Users\ianre\Desktop\coda\xbee\ian\record.py
+
+then run:
+C:\Users\ianre\Desktop\coda\Dash_HM\Dash\main.py
+
+
+
+
 # Dash
 This code uses Python and Kivy. It was created to receive and transmit CAN with an ECU. Our team uses a Motec system.
 'Dash' is the original code that was created. The 'Dash with Buttons' is our newest code that we use. This code can be used with physical buttons to navigate the dash. The buttons are connected to the GPIO pins on the Raspberry Pi. 
