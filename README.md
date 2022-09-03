@@ -1,8 +1,8 @@
 run:
-C:\Users\ianre\Desktop\coda\xbee\ian\record.py
+xbee/record.py
 
 then run:
-C:\Users\ianre\Desktop\coda\Dash_HM\Dash\main.py
+Dash/main.py
 
 
 
